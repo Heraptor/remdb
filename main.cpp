@@ -20,7 +20,7 @@
 #include "utils.h"
 #include "recoveringmdb.h"
 
-#define MONODB_URL  "mongodb://qther:Trimps076ReYespayMdb4qth@35.202.0.102:27017/?authSource=admin"
+#define MONODB_URL  "mongodb://ecir2er:xxxxx@xxx.xxx.xxx.xxx:27017/?authSource=admin"
 #define MONODB_NAME "yinshengepay"
 #define MONODB_COLLECT_INDEX "recovery_monodb_collection_index"
 #define MONODB_ENGINE_URI "wiredTiger.uri"
